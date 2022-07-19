@@ -12,7 +12,7 @@ echo $local_var
 # Environment Variables 
 # − An environment variable is available to any child process of the shell. 
 # Some programs need environment variables in order to function correctly. 
-# Usually, a shell script defines only those environment variables that are needed by the programs that it runs.
+# Usually a shell script defines only those environment variables that are needed by the programs that it runs.
 
 # Example
 echo $BASH
